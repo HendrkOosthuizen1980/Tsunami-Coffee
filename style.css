@@ -30,6 +30,7 @@ body {
 nav {
   background-color: OrangeRed;
   color: White;
+  padding: 0.75rem 1.25rem;
 }
 
 ul {
@@ -55,6 +56,9 @@ li {
 }
 
 .supporting img {
+  width: 10%;
+  height: 10%;
+  margin-right: 5%;
 }
 
 .rating {
